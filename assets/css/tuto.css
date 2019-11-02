@@ -1,0 +1,16 @@
+body {
+    padding-top: 10px;
+    color: white;
+  }
+  [class*="col-"]{
+    background-color: white;
+    color:black;
+    /*line-height: 40px;*/
+    text-align: center;
+  }
+  [class*="md-1"]{
+    background-color: #17A2B8;
+    color:white;
+    border-radius: 4px;
+    
+  }
